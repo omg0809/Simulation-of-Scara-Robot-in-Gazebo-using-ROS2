@@ -1,0 +1,10 @@
+float64 q1_ref
+float64 q2_ref
+float64 q3_ref
+---
+float64 x
+float64 y
+float64 z
+float64 ang_x 
+float64 ang_y
+float64 ang_z
